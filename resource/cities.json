@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Paris",
+        "coords": [48.8566, 2.3522],
+        "date": "June 2023",
+        "icon": "images/paris.png",
+        "link": "https://en.wikipedia.org/wiki/Paris"
+    }
+]
