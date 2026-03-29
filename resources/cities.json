@@ -5,5 +5,110 @@
         "date": "June 2023",
         "icon": "images/paris.png",
         "link": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+        "name": "Tokyo",
+        "coords": [35.6762, 139.6503],
+        "date": "September 2023",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+        "name": "New York",
+        "coords": [40.7128, -74.0060],
+        "date": "November 2023",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+        "name": "Buenos Aires",
+        "coords": [-34.6037, -58.3816],
+        "date": "February 2024",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+        "name": "Cape Town",
+        "coords": [-33.9249, 18.4241],
+        "date": "April 2024",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Cape_Town"
+    },
+    {
+        "name": "Bangkok",
+        "coords": [13.7563, 100.5018],
+        "date": "July 2024",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Bangkok"
+    },
+    {
+        "name": "Istanbul",
+        "coords": [41.0082, 28.9784],
+        "date": "October 2024",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    {
+        "name": "Sydney",
+        "coords": [-33.8688, 151.2093],
+        "date": "January 2025",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Sydney"
+    },
+    {
+        "name": "Lisbon",
+        "coords": [38.7169, -9.1399],
+        "date": "March 2025",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Lisbon"
+    },
+    {
+        "name": "Nairobi",
+        "coords": [-1.2921, 36.8219],
+        "date": "August 2025",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Nairobi"
+    },
+    {
+        "name": "Vancouver",
+        "coords": [49.2827, -123.1207],
+        "date": "February 2026",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Vancouver"
+    },
+    {
+        "name": "Mexico City",
+        "coords": [19.4326, -99.1332],
+        "date": "April 2026",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+        "name": "Prague",
+        "coords": [50.0755, 14.4378],
+        "date": "May 2024",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Prague"
+    },
+    {
+        "name": "Bali",
+        "coords": [-8.3405, 115.0920],
+        "date": "December 2023",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Bali"
+    },
+    {
+        "name": "Dubai",
+        "coords": [25.2048, 55.2708],
+        "date": "November 2025",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Dubai"
+    },
+    {
+        "name": "Seoul",
+        "coords": [37.5665, 126.9780],
+        "date": "June 2026",
+        "icon": "images/random_city.png",
+        "link": "https://en.wikipedia.org/wiki/Seoul"
     }
 ]
